@@ -1,4 +1,4 @@
-# Número Secreto com Java
+# ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) Número Secreto com Java
 
 Este é um jogo simples de adivinhação de números em Java, 
 onde o usuário tenta adivinhar um número aleatório gerado
@@ -19,3 +19,4 @@ correto.
 - Java para a lógica do jogo.
 
 ## Uso
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/ym3EPYRYSw8/0.jpg)](https://youtu.be/ym3EPYRYSw8)
